@@ -1,2 +1,4 @@
-# ifelse
-ifelse
+# ifelse Ödevi
+
+
+www.patika.dev
